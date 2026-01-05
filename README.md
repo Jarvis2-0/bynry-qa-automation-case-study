@@ -17,6 +17,7 @@ automation, API testing, and cross-platform validation.
 - automation/ : UI, API, and integration tests
 - test_data/ : Sample test data
 - reports/ : Sample test execution reports
+- Case Study Document: Akshay_Pawar_Bynry_Automation_Case_Study_Solution.pdf
 
 ## How to Run Tests (Conceptual)
 1. Install dependencies
