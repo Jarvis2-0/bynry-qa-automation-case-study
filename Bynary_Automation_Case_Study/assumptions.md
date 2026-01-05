@@ -1,0 +1,4 @@
+- Authentication tokens are available for automation
+- Test tenants are isolated
+- BrowserStack devices are pre-configured
+- API cleanup is handled separately
